@@ -1,4 +1,6 @@
- https://api.github.com/user and displays id
+#!/usr/bin/python3
+"""
+fetches https://api.github.com/user and displays id
 """
 from sys import argv
 
